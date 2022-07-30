@@ -1,0 +1,8 @@
+elasticsearch:
+  username: elastic
+  password: mhiqazcz6rXKvc7oDfhr
+  host: localhost
+  port: 9203
+  connTimeout: 1000
+  socketTimeout: 1000
+  connectionRequestTimeout: 1000
